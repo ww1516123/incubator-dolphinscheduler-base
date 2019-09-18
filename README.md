@@ -1,2 +1,3 @@
 # incubator-dolphinscheduler-base
-FOR https://github.com/ww1516123/incubator-dolphinscheduler dockerbuild
+for https://github.com/ww1516123/incubator-dolphinscheduler  base docker build
+**no apps,just had Basic Environment**
